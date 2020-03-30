@@ -1,5 +1,5 @@
-## sue2do-ru
-# Beginnings of beginnings.
+# sue2do-ru
+## Beginnings of beginnings.
 
 Learning, exploring, trying all kinds of things here.
 I am a GIS specialist - that means a lot of different things to a lot of different people.
